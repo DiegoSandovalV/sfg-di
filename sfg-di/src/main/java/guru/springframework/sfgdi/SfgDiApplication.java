@@ -13,7 +13,7 @@ import guru.springframework.sfgdi.controllers.PropertyInjectedController;
 import guru.springframework.sfgdi.controllers.SetterInjectedController;
 
 
-@ComponentScan(basePackages = {"guru.springframework.sfgdi", "com.springframework.pets"})
+
 @SpringBootApplication
 public class SfgDiApplication {
 
